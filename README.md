@@ -8,3 +8,8 @@ I tried to implement the arp spoofing I made before in C language
 I only made the arp positioning function
 
 I stopped making it because it was not fun to make something I had already made once.
+
+# important thing
+ethical thinking
+
+you can freely use this source code, but we are not responsible for it
